@@ -8,7 +8,7 @@ print(y)
 y = (2, 4, 6, 8)
 (x, y) = (1, 2) # x = 1, y = 2
 
-# Sets (unordered list of unique objects)
+# Sets (unordered list of unique objects) i.e. items returned will be returned in any order
 x = {2, 4, 6, 8}
 
 # Dictionaries (ordered collection of key-value pairs)
